@@ -19,6 +19,10 @@ html, body {
   border-radius: 20px
 }
 
+h2 {
+  margin-top: 1rem;
+}
+
 .clock {
   font-size: 4em;
   font-family: monospace;
@@ -29,4 +33,5 @@ html, body {
   font-size: 3em;
   font-family: monospace;
   font-weight: bold;
+  margin-bottom: 1rem;
 }
